@@ -9,6 +9,10 @@
     <a href="https://github.com/Pnowr/system-info-nau/blob/main/LICENSE">
         <img height="21" src="https://img.shields.io/badge/License-MIT-ffffff?labelColor=d4eaf7&color=2e6cc4" alt="license">
     </a>
+    <p align="center">
+    <a href="https://github.com/Pnowr/system-info-nau/releases/download/v1.0/SystemInfoReporter.exe" target="_blank">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Download-Link-brightgreen">
+    </a>
     <a href="https://github.com/Pnowr/system-info-nau">
         <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Pnowr/system-info-nau">
     </a>
