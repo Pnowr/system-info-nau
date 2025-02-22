@@ -1,7 +1,4 @@
 # Windows System Information Reporter
-
-Windows PCのシステム情報を収集し、HTMLレポートを生成するシンプルなツールです。
-
 <p align="center">
     <a href="https://x.com/intent/follow?screen_name=nau_neko" target="_blank">
         <img src="https://img.shields.io/twitter/follow/nau_neko?logo=X&color=%20%23f5f5f5" alt="follow on X(Twitter)">
@@ -10,6 +7,7 @@ Windows PCのシステム情報を収集し、HTMLレポートを生成するシ
         <img height="21" src="https://img.shields.io/badge/License-MIT-ffffff?labelColor=d4eaf7&color=2e6cc4" alt="license">
     </a>
 </p>
+Windows PCのシステム情報を収集し、HTMLレポートを生成する可視化ツールです。
 
 ## 使い方
 
