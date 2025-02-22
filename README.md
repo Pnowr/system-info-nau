@@ -5,7 +5,7 @@ Windows PCのシステム情報を収集し、HTMLレポートを生成するシ
 ## 使い方
 
 1. [Releases](https://github.com/Pnowr/system-info-nau/releases/tag/v1.0)から`SystemInfoReporter.exe`をダウンロード
-2. ダウンロードしたexeファイルをダブルクリック
+2. ダウンロードしたexeファイルをダブルクリック　※実行したときにWindows側から警告（赤い画面）が出る場合があります。詳細を押して実行で起動できます。
 3. 自動的にシステム情報を収集し、HTMLレポートを生成
 4. レポートが自動的にブラウザで開きます
 
