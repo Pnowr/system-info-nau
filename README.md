@@ -44,7 +44,7 @@ Windows PCのシステム情報を収集し、HTMLレポートを生成する可
    - .NET Framework 4.5以降
 4. **バージョンを下げる**
    - 最新版は安定しない為、情報を取得できない場合、バージョンを下げて実行する
-   - 安定バージョン1.0をインストール
+   - [安定バージョン1.0](https://github.com/Pnowr/system-info-nau/releases/tag/v1.0)をインストール
 ### 情報が正しく取得できない場合
 1. **WMIサービスの確認**
    - Windowsキー + R
