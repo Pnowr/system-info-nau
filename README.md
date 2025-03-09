@@ -41,7 +41,7 @@ Windows PCのシステム情報を収集し、HTMLレポートを生成する可
 3. **システム要件**
    - Windows 7以降
    - WMIサービスが有効であること
-   - .NET Framework 4.5以降
+   - [.NET Framework 4.5](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework)以降
 4. **バージョンを下げる**
    - 最新版は安定しない為、情報を取得できない場合、バージョンを下げて実行する
    - [安定バージョン1.0](https://github.com/Pnowr/system-info-nau/releases/tag/v1.0)をインストール
